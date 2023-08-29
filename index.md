@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello, My name is Sabrina Dahl.  
 
-Maybe say a some things about yourself.
+I completed my ungrad at Virginia Tech and I am currently completing a graduate certificate through North Carolina State University.
 
-Or maybe what you plan to blog about.
+Please enjoy this journey as I continue my education in Statistics and Data Management.
