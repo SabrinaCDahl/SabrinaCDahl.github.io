@@ -1,4 +1,4 @@
-##Data Scientists vs. Statisticians Blog Post##  
+## Data Scientists vs. Statisticians Blog Post  
 
 To my knowledge, I believe being a data scientist is about creating usable data from many platforms that can then be communicated to 
 stakeholders and used to inform decisions in many different fields- whether that be business, marketing, or natural sciences.
