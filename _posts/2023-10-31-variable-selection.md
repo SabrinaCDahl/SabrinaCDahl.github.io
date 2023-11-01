@@ -1,4 +1,4 @@
-## Variable Selection ##  
+## Variable Selection  
 
 When determining the variables to use in your model, you first want to start with EDA to determine if there are any outliers, or if your data could be skewed. This also helps to determine any trends or correlations that can be found within the data. You also wan to know from the beginning what the model will be used for. Different variable selection techniques are better for different model purposes. Then you can begin by applying different techniques variable selection techniques to the model (e.g. forward selection, backward elimination, stepwise, lasso). Then you can compare the test statistics of the models- keeping in  mind the complexity/simplicity of the models, as well. You don't want it to be too complex becuase you don't want to have redundant variables, but also if it is too simple there could be a strong bias towards the data that could cause problems with the predictions. If accurate predictions is your goal for the model, you can also create predictions using each model and use the accuracy as a way to choose the best model.
   
